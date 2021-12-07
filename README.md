@@ -1,4 +1,19 @@
 ### Hi there 👋
+My name is Luke (Artucuno) and I am a Developer based in Australia!
+
+### Github Stats 🔭
+
+<p align="center">
+<a href="https://github.com/Artucuno">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Artucuno&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Artucuno&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Contact me! 📫
+Website: https://artucuno.dev \
+Email: artucunov@gmail.com \
+Discord: Artucuno#1898
 
 <!--
 **Artucuno/Artucuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
