@@ -1,6 +1,10 @@
 ### Hi there 👋
 My name is Luke (Artucuno) and I am a Developer based in Australia!
 
+### My Current Projects ⚡
+- [LoonaBilling](https://github.com/Loona-cc/LoonaBilling)
+- [Loona](https://loona.cc) (My website)
+
 ### Github Stats 🔭
 
 <p align="center">
