@@ -1,9 +1,10 @@
 ### Hi there 👋
-My name is Luke (Artucuno) and I am a Developer based in Australia!
+My name is Artucuno and I am a Developer based in Australia!
 
 ### My Current Projects ⚡
-- [LoonaBilling](https://github.com/Loona-cc/LoonaBilling)
-- [Loona](https://loona.cc) (My website)
+- [LoonaBilling](https://github.com/Loona-cc/LoonaBilling) - Open-source WHMCS alternative
+- [Loona](https://loona.cc) (My small business)
+- [micro-networking](https://github.com/Artucuno/micro-networking) (Micro:bit networking utility)
 
 ### Github Stats 🔭
 
