@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LoonaBilling](https://LoonaBilling.com)
 
-- 🌱 I’m currently learning **Rust, Go and better front end development.**
+- 🌱 I’m currently learning **C#/.NET and better front end development.**
 
 - 👨‍💻 All of my projects are available at [https://artucuno.dev](https://artucuno.dev)
 
