@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Artucuno!</h1>
-<h3 align="center">A passionate Python Developer from Australia.</h3>
+<h3 align="center">Super Epic Software Developer from Australia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artucuno&label=Profile%20views&color=0e75b6&style=flat" alt="artucuno" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artucuno&theme=gruvbox" alt="artucuno" /></a> </p>
 
-- 🔭 I’m currently working on [LoonaBilling](https://LoonaBilling.com)
+- 🔭 I’m currently working on [Loona](https://loona.gg)
 
-- 🌱 I’m currently learning **C#/.NET and better front end development.**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [https://artucuno.dev](https://artucuno.dev)
 
